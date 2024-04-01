@@ -7,6 +7,6 @@ Hello world test
 El resultado de la corrección se verá tras hacer `commit`.
 
 
-### Comado para ejecución en servidor
+### Comando para ejecución de test en servidor
 `make test`
 
