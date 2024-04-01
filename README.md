@@ -1,14 +1,12 @@
-# Autograding Example: C
-This example project is written in C, and tested with make and bash scripts.
+# Ejercicio con corrección automática
+Modifica el código existente para que la salida por terminal sea exactamente la siguiente:
+```
+Hello world test
+```
 
-### The assignment
-The tests are currently failing because we're printing the wrong string. Correcting the `printf` will fix the tests.
+El resultado de la corrección se verá tras hacer `commit`.
 
-### Setup command
-N/A
 
-### Run command
+### Comado para ejecución en servidor
 `make test`
 
-### Notes
-- `gcc` can be used to compile and link C applications for use with existing test harnesses or C testing frameworks.
